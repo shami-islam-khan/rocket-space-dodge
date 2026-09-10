@@ -5,16 +5,18 @@ A simple and addictive 2D space survival game created using **Python** and **Pyg
 ---
 
 ### 🎥 Demo Video
-Check out the gameplay demonstration on YouTube:  
-👉 **[Watch Space Dodge Game Demo](https://youtu.be/2pgXjD810ss)**
+Click on the image below to watch the gameplay demonstration on YouTube:
+
+[![Space Dodge Demo](https://img.youtube.com/vi/2pgXjD810ss/maxresdefault.jpg)](https://youtu.be/2pgXjD810ss)
 
 ---
 
 ### ✨ Features
-* 🚀 **Smooth Rocket Movement:** Dynamic control using keyboard arrow keys.
+* 🚀 **Smooth Rocket Movement:** Dynamic control using keyboard arrow keys with tilting effects.
 * 🪨 **Random Asteroid Obstacles:** Spawns randomly with increasing difficulty over time.
 * ⏱️ **Real-time Score & Timer:** Keeps track of your survival time and score.
-* 🔊 **Retro Sound Effects & Graphics:** Immersive arcade audio and visual effects.
+* 💥 **Particle Effects:** Flame thruster animation under the rocket.
+* 🔊 **Retro Sound Effects & Audio:** Immersive background music and explosion audio.
 
 ---
 
